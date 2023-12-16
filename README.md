@@ -9,7 +9,7 @@
 </ul>
 
 <h2 id="introduccion">Introducción</h2>
-<p>Trabajo realizado en clase por: Afrián Bueno Cuevas</p>
+<p>Trabajo realizado en clase por: Adrián Bueno Cuevas</p>
 <p>Proyecto de web "from scratch" de 1ª evaluación de Lenguajes de Marcas</p>
 <p>Diciembre de 2023 </p>
 <p>Licencia CC-BY</p>
@@ -61,11 +61,21 @@ Sobre ella he colocado un Call to Action que he estilado a partir de los tonos o
 <a href="https://i.pinimg.com/originals/96/c1/c1/96c1c10e0b0ba71252d2d477226feddd.jpg">Freddy</a>
 <img src="./bm-readme/freddy.png">
 <a href="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2ca3ca30-7832-4382-9853-00f784a501bd/df6ol0p-34ed63b4-f15e-42c6-8cf4-95b483aef2d8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJjYTNjYTMwLTc4MzItNDM4Mi05ODUzLTAwZjc4NGE1MDFiZFwvZGY2b2wwcC0zNGVkNjNiNC1mMTVlLTQyYzYtOGNmNC05NWI0ODNhZWYyZDgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lmZJTDz1aR_MbQ6p3R0bhQj9shkyIN7PUAwj3epNbTw">Bonnie</a>
-<img src="./bm-readme/bonnie.png">
+<img src="./bm-readme/Bonnie.png">
 <a href="https://static.wikia.nocookie.net/vsbattles/images/d/d0/Chiccaaaaaa.png/revision/latest?cb=20200320230419">Chica</a>
-<img src="./bm-readme/chica.png">
+<img src="./bm-readme/Chica.webp">
 <a href="https://i.pinimg.com/originals/14/83/41/1483413a5317df3340911a215b7cb4b9.png">Foxy</a>
 <img src="./bm-readme/Foxy.png">
+<p>Galería</p>
+<a href="https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/9/95/FiveNightsAtFreddys.png/revision/latest?cb=20150712042809&path-prefix=es">FNAF 1</a>
+<img src="./bm-readme/fnaf1.webp">
+<a href="https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/e/ee/FNaF2_-_Portada.png/revision/latest?cb=20141117165616&path-prefix=es">FNAF 2</a>
+<img src="./bm-readme/fnaf2.webp">
+<a href="https://m.media-amazon.com/images/I/71Pib7x9NbL.jpg">FNAF 3</a>
+<img src="./bm-readme/fnaf3.jpg">
+<a href="https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_FiveNightsAtFreddys4_image1280w.jpg">FNAF 4</a>
+<img src="./bm-readme/fnaf4.jpg">
+
 
 <h3>Videos</h3>
 <p>El vídeo lo he sacado de youtube</p>
