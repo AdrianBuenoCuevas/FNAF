@@ -65,7 +65,7 @@ Sobre ella he colocado un Call to Action que he estilado a partir de los tonos o
 <a href="https://static.wikia.nocookie.net/vsbattles/images/d/d0/Chiccaaaaaa.png/revision/latest?cb=20200320230419">Chica</a>
 <img src="./bm-readme/chica.png">
 <a href="https://i.pinimg.com/originals/14/83/41/1483413a5317df3340911a215b7cb4b9.png">Foxy</a>
-<img src="./bm-readme/foxy.png">
+<img src="./bm-readme/Foxy.png">
 
 <h3>Videos</h3>
 <p>El vídeo lo he sacado de youtube</p>
