@@ -36,7 +36,7 @@ Sobre ella he colocado un Call to Action que he estilado a partir de los tonos o
 <img src="./bm-readme/Fnaf_intro.jpg" alt="imagen de introducción" style="width:50%">
 <p>He dispuesto en un grid de 2 columnas, una a la izquiera para una breve introduccin de la historia y otra a la derecha para poner una imagen sacada de https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.uhdpaper.com%2F2023%2F11%2Ffive-nights-at-freddys-movie-4k-9251m.html%3Fm%3D1&psig=AOvVaw1va-LBZpp-L2TZPQPrNQ1W&ust=1702817190957000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiI1sP-k4MDFQAAAAAdAAAAABAj</p>
 
-.......
+
 
 
 
@@ -48,6 +48,7 @@ Sobre ella he colocado un Call to Action que he estilado a partir de los tonos o
 
 <h3>Footer</h3>
 <p>El footer lo he dividido en grid de 3 columnas con las redes sociales, una barra de navegación y un enlace a una wiki de este Five Nights at Freddy's, ya que no tiene página oficial</p>
+<p>También, fuera del grid, he puesto unos créditos</p>
 
 <h2 id="estilo">Estilo de la página</h2>
 <h3>Paleta de colores</h3>
@@ -55,14 +56,23 @@ Sobre ella he colocado un Call to Action que he estilado a partir de los tonos o
 <h3>Tipografías</h3>
 <p>Para la tipografía, he usado Sans Serif para los textos, y Proxima novo bold para los títulos</p>
 <h3>Imágenes</h3>
-<p>.....</p>
+<p>Las imágenes las he sacado de Google</p>
+<p>Personajes</p>
+<a href="https://i.pinimg.com/originals/96/c1/c1/96c1c10e0b0ba71252d2d477226feddd.jpg">Freddy</a>
+<img src="./bm-readme/freddy.png">
+<a href="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2ca3ca30-7832-4382-9853-00f784a501bd/df6ol0p-34ed63b4-f15e-42c6-8cf4-95b483aef2d8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJjYTNjYTMwLTc4MzItNDM4Mi05ODUzLTAwZjc4NGE1MDFiZFwvZGY2b2wwcC0zNGVkNjNiNC1mMTVlLTQyYzYtOGNmNC05NWI0ODNhZWYyZDgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lmZJTDz1aR_MbQ6p3R0bhQj9shkyIN7PUAwj3epNbTw">Bonnie</a>
+<img src="./bm-readme/bonnie.png">
+<a href="https://static.wikia.nocookie.net/vsbattles/images/d/d0/Chiccaaaaaa.png/revision/latest?cb=20200320230419">Chica</a>
+<img src="./bm-readme/chica.png">
+<a href="https://i.pinimg.com/originals/14/83/41/1483413a5317df3340911a215b7cb4b9.png">Foxy</a>
+<img src="./bm-readme/foxy.png">
+
 <h3>Videos</h3>
-<p>.....</p>
-...................
+<p>El vídeo lo he sacado de youtube</p>
+<a href="https://www.youtube.com/embed/RP4UTOek0-Y?si=NV9brlbYXjY4sLRT">Tráiler Five Nights at Freddy's</a>
 <h2 id="snippets">Code snippets</h2>
 <p>He utilizado los siguientes:</p>
 <ul>
-  <li>Barra de navegación: tomada de w3Schools "How to" (poner vínculo)</li>
-  <li>Accordion: ..............</li>
-  <li>..........</li>
+  <li>Barra de navegación: tomada de w3Schools "How to" (https://www.w3schools.com/howto/howto_js_topnav.asp)</li>
+  <li>Accordion: sacado de https://freefrontend.com/css-accordions/ , dividido en 4 secciones</li>
 </ul>
